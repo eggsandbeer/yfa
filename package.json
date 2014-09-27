@@ -1,5 +1,5 @@
 {
-  "name": "eab",
+  "name": "yfa-nodejs",
   "description": "A boilerplate app for express.js, angular.js and bootstrap",
   "version": "0.1.0",
   "private": true,
@@ -34,7 +34,7 @@
     "grunt-contrib-nodeunit": "~0.1.2",
     "grunt-contrib-watch": "~0.2.0",
     "grunt": "~0.4.1",
-    "grunt-karma": "~0.6.2",
+    "grunt-karma": "~0.8",
     "grunt-express": "~1.0.0-beta2",
     "grunt-env": "~0.4.0",
     "grunt-mocha-cli": "~1.0.6",
@@ -43,12 +43,15 @@
     "karma-firefox-launcher": "~0.1.0",
     "karma-html2js-preprocessor": "~0.1.0",
     "karma-phantomjs-launcher": "~0.1.0",
-    "karma": "~0.10.1",
+    "karma": "~0.12.0",
     "karma-coverage": "~0.1.0",
     "mocha": "~1.12.1",
     "karma-mocha": "~0.1.0",
     "karma-chai": "0.0.1",
-    "karma-ng-scenario": "~0.1.0"
+    "karma-ng-scenario": "~0.1.0",
+    "async": "~0.9.0",
+    "mongoose": "~3.8.16",
+    "ejs": "~1.0.0"
   },
   "dependencies": {
     "express": "3.2.6",
